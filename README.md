@@ -1,9 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently studying BTech CSE at UIET Kurukshetra University<br>🤝 I’m looking for help with Deployment of machine learning models<br>🌱 I’m currently learning Natural Language Processing<br>⚡ Fun fact "Time is just an illusion" by Albert Einstein<br/>
 Have a good interest in machine learning and deep learning projects
-
-# Contacts: 
-You can contact me via [Email](mailto:lakshayd760@gmail.com) or via [linkedin](https://www.linkedin.com/in/lakshaydhiman)
+ 
+Contact: Feel free to contact me via [Email](mailto:lakshayd760@gmail.com) or via [linkedin](https://www.linkedin.com/in/lakshaydhiman)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lakshayd760) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lakshaydhiman) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lakshayd760) 
