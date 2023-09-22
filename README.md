@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently studying BTech CSE at UIET Kurukshetra University<br>🤝 I’m looking for help with Deployment of machine learning models<br>🌱 I’m currently learning Natural Language Processing<br>⚡ Fun fact "Time is just an illusion" by Albert Einstein
+🔭 I’m currently studying BTech CSE at UIET Kurukshetra University<br>🤝 I’m looking for help with Deployment of machine learning models<br>🌱 I’m currently learning Natural Language Processing<br>⚡ Fun fact "Time is just an illusion" by Albert Einstein<br/>
+Have a good interest in machine learning and deep learning projects
 
 
 ## 🌐 Socials:
