@@ -3,7 +3,7 @@
 Have a good interest in machine learning and deep learning projects
 
 # Contacts: 
-You can contact me via [Email](lakshayd760@gmail.com) or via [linkedin](linkedin.com/lakshaydhiman)
+You can contact me via [Email](lakshayd760@gmail.com) or via [linkedin](https://linkedin.com/in/lakshaydhiman)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lakshayd760) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lakshaydhiman) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lakshayd760) 
